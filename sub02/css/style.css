@@ -56,7 +56,7 @@ header .back{
 .back:hover a{
     color: #eb0000;
 }
-header .back a:visited { color:black; }
+.back a:visited { color:black; }
 /*//header*/
 /*title*/
 main .title{
